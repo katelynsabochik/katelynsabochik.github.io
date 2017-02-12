@@ -1,0 +1,30 @@
+div {background-color: gray;}
+h1{color: black; font-family: sans-serif;}
+h2{color: black; font-family: sans-serif;}
+h3{color: black; font-family: sans-serif;}
+h4{color: black; font-family: sans-serif; text-align: center;}
+p{color: black; font-family: sans-serif;}
+li{color: black; font-family: sans-serif;}
+img{width: 200;
+border: 3px;
+padding: 10px;}
+.cool-stuff {color: black; font-family: sans-serif;}
+#circle {border-radius: 50%;}
+#oval {border-radius: 50%}
+table {border: 2px;}
+td {height: 100px;
+  width: 300px;
+text-align: center;
+padding: 3px;
+border: 1px}
+tr {height: 200px;
+  width: 300px;
+  vertical-align: top;
+  padding: 3px;
+border: 1px}
+.tall-image {height: 200px;}
+#all {background-color: black;}
+.paragraph {
+  width: 10%;
+}
+.table-text {text-align: -align: bottom;}
